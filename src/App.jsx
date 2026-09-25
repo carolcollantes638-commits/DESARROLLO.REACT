@@ -20,7 +20,7 @@ function App() {
       <div className="seccion-hobbies">
         <h2>Intereses Tecnológicos</h2>
         <ul>
-          <li>Desarrollo Frontend con React</li>
+          <li>Desarrollo con React</li>
           <li>Gestión de repositorios con Git y GitHub</li>
           <li>Diseño de interfaces sencillas e intuitivas</li>
         </ul>
