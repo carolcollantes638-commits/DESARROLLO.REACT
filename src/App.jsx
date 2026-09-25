@@ -7,9 +7,9 @@ function App() {
       <h1 className="titulo">Desarrollador en Formación</h1>
       
       <img 
-        src="https://images.unsplash.com/photo-1517694712202-14dd9538aa97?q=80&w=400" 
-        alt="Computador con código" 
-        className="imagen-perfil"
+        src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg"
+        alt="Logo de React" 
+        className="imagen"
       />
 
       <p className="descripcion">
