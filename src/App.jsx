@@ -13,7 +13,7 @@ function App() {
       />
 
       <p className="descripcion">
-        ¡Hola! Soy Carol Collantes estudiante de Ingeniería de Sistemas. Me apasiona el desarrollo web, 
+        Hola, Soy Carol Collantes estudiante de Ingeniería de Sistemas. Me apasiona el desarrollo web, 
         la tecnología y la creación de soluciones interactivas utilizando React y JavaScript.
       </p>
 
